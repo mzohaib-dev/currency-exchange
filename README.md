@@ -10,7 +10,7 @@ Check out the live demo of the Currency Converter App [here](https://fiat2crypto
 
 Here's a sneak peek of the Currency Converter App:
 
-![Project Preview](assets/Currency-Converter.png)
+<img width="1234" alt="Screenshot 2025-04-26 at 7 55 10 PM" src="https://github.com/user-attachments/assets/bee22bd8-a873-49c7-8db3-83b61d0a5404" />
 
 ## 🚀 Features
 
