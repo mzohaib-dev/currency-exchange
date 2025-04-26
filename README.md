@@ -36,11 +36,9 @@ Follow the steps below to clone and use the project locally:
 git clone https://github.com/mzohaib-dev/fiat-and-crypto-exchange.git
 ```
 
-### 3. Set up the API Key
+## 👨‍💻 Created by
 
-- Sign up for a free account at [ExchangeRate-API](https://www.exchangerate-api.com/) or any other similar service.
-- Once you get your API Key, create a **".env"** file in the project directory and paste the key like this:
+This project was created and is maintained by:
+**Muhammad Zohaib**
 
-```bash
-API_KEY = your_api_key_here
-```
+Feel free to reach out if you have any questions or suggestions! ❤️
